@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    border: 2px solid blue;
+}
+
+body {
+    background-color: gold;
+}
+
+h3 {
+    color: blue;
+}
